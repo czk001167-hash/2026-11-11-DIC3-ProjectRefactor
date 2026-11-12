@@ -1,5 +1,9 @@
 ﻿# 交通配時助手（Traffic Timing Assistant）
 
+![A–Z 分析圖](./assets/A-Z分析.png)
+
+[A–Z 完整分析（Markdown）](./docs/交通專題分析_A-Z.md)
+
 ## 摘要
 
 ### A. Attention Getter (背景與動機)
